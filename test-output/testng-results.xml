@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Page Object Model" duration-ms="6250" started-at="2023-02-13T16:25:48Z" finished-at="2023-02-13T16:25:54Z">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="6250" started-at="2023-02-13T16:25:48Z" finished-at="2023-02-13T16:25:54Z">
+      <class name="com.w2a.testcases.LoginTest">
+        <test-method status="PASS" signature="loginTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.LoginTest@553f3b6e]" name="loginTest" duration-ms="6037" started-at="2023-02-13T16:25:48Z" data-provider="dp" finished-at="2023-02-13T16:25:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=PasswordOfZoho, runMode=Y, username=saurabhkumarrajput21@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.testcases.LoginTest@553f3b6e]" name="tearDown" is-config="true" duration-ms="653" started-at="2023-02-13T16:25:54Z" finished-at="2023-02-13T16:25:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.testcases.LoginTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- Page Object Model -->
+</testng-results>

@@ -1,0 +1,12 @@
+com\w2a\utilities\ExtentManager.class
+com\w2a\utilities\TestUtil.class
+com\w2a\pages\crm\accounts\AccountsHomePage.class
+com\w2a\utilities\ExcelReader.class
+com\w2a\pages\HomePage.class
+com\w2a\pages\ZohoAppPage.class
+com\w2a\pages\crm\accounts\CreateAccountPage.class
+com\w2a\pages\LoginPage.class
+com\w2a\base\Page.class
+com\w2a\pages\crm\accounts\ImportAccountPage.class
+com\w2a\pages\crm\CRMHomePage.class
+com\w2a\base\TopMenu.class

@@ -1,0 +1,9 @@
+00:40:35,310 DEBUG devpinoyLogger:54 - config file loaded
+00:40:35,313 DEBUG devpinoyLogger:69 - OR file loaded
+00:40:40,332 DEBUG devpinoyLogger:62 - Reach end of getData method
+00:40:40,333 DEBUG devpinoyLogger:63 - {password=PasswordOfZoho, runMode=Y, username=saurabhkumarrajput21@gmail.com}
+00:40:47,455 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:40:47,456 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:40:47,458 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:40:47,458 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:40:47,459 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
